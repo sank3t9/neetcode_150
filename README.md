@@ -46,4 +46,8 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sank3t9/neetcode_150/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/sank3t9/neetcode_150/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

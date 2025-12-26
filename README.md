@@ -12,6 +12,7 @@ Just a repo to track my leetcode progress :)
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sank3t9/neetcode_150/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/sank3t9/neetcode_150/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sank3t9/neetcode_150/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -51,4 +52,12 @@ Just a repo to track my leetcode progress :)
 | ------- |
 | [0007-reverse-integer](https://github.com/sank3t9/neetcode_150/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sank3t9/neetcode_150/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sank3t9/neetcode_150/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sank3t9/neetcode_150/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

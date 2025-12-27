@@ -4,29 +4,29 @@ class Solution:
 
         nums.sort()
         triplets = set()
-        for i in range(0,len(nums)):
+        for i in range(0,len(nums)-2):
             
 
             j = i + 1
             k = len(nums)-1
             
-            target = 0-nums[i]
+            target = -nums[i]
 
             while(j<k):
                 current_sum = nums[j]+nums[k]
                 
 
-                if ((current_sum == target) and i!=j and i!=k and j!=k):
+                if ((current_sum == target)):
                     triplets.add((nums[i],nums[j],nums[k]))
                     j+=1
                     k-=1
 
                     
 
-                if ((current_sum > target) and i!=j and i!=k and j!=k):
+                if ((current_sum > target)):
                     k-=1
 
-                if ((current_sum < target) and i!=j and i!=k and j!=k):
+                if ((current_sum < target)):
                     j+=1
 
               

@@ -13,6 +13,7 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sank3t9/neetcode_150/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/sank3t9/neetcode_150/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sank3t9/neetcode_150/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sank3t9/neetcode_150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sank3t9/neetcode_150/tree/master/0242-valid-anagram) |
@@ -71,4 +72,8 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sank3t9/neetcode_150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sank3t9/neetcode_150/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

@@ -11,9 +11,9 @@ class Solution:
                 if not stack:
                     return False
                 
-                top_element = stack.pop()
+                top_element = stack[-1]
                 if bracket == mapping[top_element]:
-                    continue
+                    stack.pop()
                 else :
                     return False
         

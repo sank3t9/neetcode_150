@@ -5,10 +5,13 @@ class Solution:
         freq_map = Counter(s)
 
         #early exit
-        max_freq = 0
-        for char in freq_map:
-            if freq_map[char] > max_freq:
-                max_freq = freq_map[char]
+        # max_freq = 0
+        # for char in freq_map:
+        #     if freq_map[char] > max_freq:
+        #         max_freq = freq_map[char]
+
+        max_freq = freq_map.most_common(1)[0][1]
+        print(max_freq)
 
         if max_freq > (len(s) + 1) // 2:
             return ""

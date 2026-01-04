@@ -3,6 +3,16 @@ from collections import Counter
 class Solution:
     def reorganizeString(self, s: str) -> str:
         freq_map = Counter(s)
+
+        #early exit
+        max_freq = 0
+        for char in freq_map:
+            if freq_map[char] > max_freq:
+                max_freq = freq_map[char]
+
+        if max_freq > (len(s) + 1) // 2:
+            return ""
+
         max_heap = []
         for char,count in freq_map.items():
             max_heap.append((-count,char))

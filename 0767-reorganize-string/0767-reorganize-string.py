@@ -15,12 +15,13 @@ class Solution:
 
         while(max_heap):
             count, char = heapq.heappop(max_heap)
+            count = (-1)*count
             res.append(char)
 
-            count += 1
+            count -= 1
 
-            if prev_count < 0:
-                heapq.heappush(max_heap, (prev_count, prev_char))
+            if prev_count > 0:
+                heapq.heappush(max_heap, (-prev_count, prev_char))
 
             prev_count, prev_char = count, char
 

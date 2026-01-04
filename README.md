@@ -9,6 +9,7 @@ Just a repo to track my leetcode progress :)
 | [0049-group-anagrams](https://github.com/sank3t9/neetcode_150/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sank3t9/neetcode_150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sank3t9/neetcode_150/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/sank3t9/neetcode_150/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
@@ -17,6 +18,7 @@ Just a repo to track my leetcode progress :)
 | [0049-group-anagrams](https://github.com/sank3t9/neetcode_150/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sank3t9/neetcode_150/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sank3t9/neetcode_150/tree/master/0242-valid-anagram) |
+| [0767-reorganize-string](https://github.com/sank3t9/neetcode_150/tree/master/0767-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
@@ -24,6 +26,7 @@ Just a repo to track my leetcode progress :)
 | [0049-group-anagrams](https://github.com/sank3t9/neetcode_150/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sank3t9/neetcode_150/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sank3t9/neetcode_150/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/sank3t9/neetcode_150/tree/master/0767-reorganize-string) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +46,7 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sank3t9/neetcode_150/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/sank3t9/neetcode_150/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -51,6 +55,7 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sank3t9/neetcode_150/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/sank3t9/neetcode_150/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -92,4 +97,8 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sank3t9/neetcode_150/tree/master/0074-search-a-2d-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/sank3t9/neetcode_150/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->

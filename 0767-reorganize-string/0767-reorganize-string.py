@@ -10,19 +10,19 @@ class Solution:
         heapq.heapify(max_heap)
         
 
-        prev = None
+        prev_count, prev_char = 0, ""
         res = []
 
         while(max_heap):
             count, char = heapq.heappop(max_heap)
             res.append(char)
 
-            if prev:
-                heapq.heappush(max_heap, prev)
-                prev = None
+            count += 1
 
-            if count + 1 < 0:
-                prev = (count +1, char)
+            if prev_count < 0:
+                heapq.heappush(max_heap, (prev_count, prev_char))
+
+            prev_count, prev_char = count, char
 
         if len(res) == len(s):
             return "".join(res)

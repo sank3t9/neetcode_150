@@ -22,7 +22,7 @@ class Solution:
             if (time_taken(mid) > h):
                 left = mid + 1
 
-        return right
+        return left
             
 
         

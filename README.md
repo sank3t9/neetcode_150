@@ -34,6 +34,7 @@ Just a repo to track my leetcode progress :)
 | [0150-evaluate-reverse-polish-notation](https://github.com/sank3t9/neetcode_150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sank3t9/neetcode_150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0347-top-k-frequent-elements](https://github.com/sank3t9/neetcode_150/tree/master/0347-top-k-frequent-elements) |
+| [0875-koko-eating-bananas](https://github.com/sank3t9/neetcode_150/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@ Just a repo to track my leetcode progress :)
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sank3t9/neetcode_150/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sank3t9/neetcode_150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/sank3t9/neetcode_150/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |

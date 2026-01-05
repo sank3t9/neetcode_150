@@ -1,13 +1,21 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        freq_map = Counter(nums)
+        heap = []
+        res = []
 
-        freq_map = {}
+        for num,freq in freq_map.items():
+            heap.append((-freq,num))
 
-        for number in nums:
-            if number not in freq_map:
-                freq_map[number] = 0
-            freq_map[number] += 1
+        heapq.heapify(heap)
+        print(heap)
 
-        sorted_freq = sorted(freq_map.items(), key = lambda p :p[1], reverse = True)
-        return [pair[0] for pair in sorted_freq[:k]]
+        for _ in range(0,k):
+            temp = heapq.heappop(heap)
+            res.append(temp[1])
+
+        return res
+            
+
+
         

@@ -66,6 +66,7 @@ Just a repo to track my leetcode progress :)
 | [0007-reverse-integer](https://github.com/sank3t9/neetcode_150/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sank3t9/neetcode_150/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sank3t9/neetcode_150/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/sank3t9/neetcode_150/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sank3t9/neetcode_150/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/sank3t9/neetcode_150/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +103,12 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/sank3t9/neetcode_150/tree/master/0767-reorganize-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sank3t9/neetcode_150/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sank3t9/neetcode_150/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

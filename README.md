@@ -33,6 +33,7 @@ Just a repo to track my leetcode progress :)
 | [0001-two-sum](https://github.com/sank3t9/neetcode_150/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/sank3t9/neetcode_150/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sank3t9/neetcode_150/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/sank3t9/neetcode_150/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sank3t9/neetcode_150/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sank3t9/neetcode_150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sank3t9/neetcode_150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -67,6 +68,7 @@ Just a repo to track my leetcode progress :)
 | ------- |
 | [0007-reverse-integer](https://github.com/sank3t9/neetcode_150/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sank3t9/neetcode_150/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sank3t9/neetcode_150/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sank3t9/neetcode_150/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/sank3t9/neetcode_150/tree/master/0509-fibonacci-number) |
 ## Two Pointers

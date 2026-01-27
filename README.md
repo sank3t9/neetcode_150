@@ -85,6 +85,7 @@ Just a repo to track my leetcode progress :)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sank3t9/neetcode_150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sank3t9/neetcode_150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/sank3t9/neetcode_150/tree/master/0509-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sank3t9/neetcode_150/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Binary Search
 |  |
 | ------- |

@@ -116,6 +116,7 @@ Just a repo to track my leetcode progress :)
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sank3t9/neetcode_150/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sank3t9/neetcode_150/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/sank3t9/neetcode_150/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -125,6 +126,7 @@ Just a repo to track my leetcode progress :)
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sank3t9/neetcode_150/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/sank3t9/neetcode_150/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/sank3t9/neetcode_150/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

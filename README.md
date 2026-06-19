@@ -133,10 +133,12 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sank3t9/neetcode_150/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sank3t9/neetcode_150/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sank3t9/neetcode_150/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sank3t9/neetcode_150/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,4 +147,5 @@ Just a repo to track my leetcode progress :)
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/sank3t9/neetcode_150/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/sank3t9/neetcode_150/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
